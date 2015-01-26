@@ -4,6 +4,8 @@ package boletin18;
 */
 public class Boletin18 {
 //Borja está loco
+    //continuamos
+    
     
     public static void main(String[] args) {
         int[] numeros = new int[6];
