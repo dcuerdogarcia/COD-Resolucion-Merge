@@ -3,9 +3,7 @@ package boletin18;
 * Author dcuerdogarcia.
 */
 public class Boletin18 {
-//Borja está loco
-    //continuamos
-    
+//Borja está loco y lo sabes porque esta jodido de remate
     
     public static void main(String[] args) {
         int[] numeros = new int[6];
