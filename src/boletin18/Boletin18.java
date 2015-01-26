@@ -3,7 +3,8 @@ package boletin18;
 * Author dcuerdogarcia.
 */
 public class Boletin18 {
-
+//Borja está loco
+    
     public static void main(String[] args) {
         int[] numeros = new int[6];
         for (int i = 0; i < 6; i++) {
