@@ -1,5 +1,7 @@
 package boletin18;
-
+/*
+* Author dcuerdogarcia.
+*/
 public class Boletin18 {
 
     public static void main(String[] args) {
